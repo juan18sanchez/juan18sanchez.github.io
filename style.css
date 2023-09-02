@@ -44,7 +44,7 @@ img {
 }
 
 .logo {
-    color: #900C3F;
+    color: #D0312D;
     font-size: 25px;
     font-weight: 800;
     text-transform: uppercase;
@@ -132,11 +132,13 @@ h2 {
     color: white;
     font-size: 35px;
     margin-bottom: 45px;
+    text-align: center;
 }
 
 .popular-content {
     display: flex;
     justify-content: space-between;
+    
 }
 
 .popular-content img {
@@ -240,7 +242,7 @@ input {
     color: #29455b;
 }
 
-@media(max-widht:991px) {
+@media (max-width: 991px) {
 
     .menu {
         padding: 20px;
@@ -331,5 +333,4 @@ input {
     .link ul {
         margin-top: 20px;
     }
-
 }
