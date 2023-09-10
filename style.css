@@ -23,7 +23,7 @@ img {
 }
 
 .header {
-    background-image: url(imagenes/principal.svg);
+    background-image: url(imagenes/principal.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
