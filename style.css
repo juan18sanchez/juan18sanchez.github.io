@@ -23,7 +23,7 @@ img {
 }
 
 .header {
-    background-image: url(imagenes/principal.png);
+    background-image: url(imagenes/principal.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -44,7 +44,7 @@ img {
 }
 
 .logo {
-    color: #D0312D;
+    color: #ff0400;
     font-size: 25px;
     font-weight: 800;
     text-transform: uppercase;
@@ -64,7 +64,7 @@ img {
 }
 
 .menu .navbar ul li a:hover {
-    color: #c70039;
+    color: #ff0400;
 }
 
 #menu {
@@ -96,7 +96,7 @@ img {
 }
 
 .header-txt span {
-    color: #D0312D;
+    color: #ff0400;
 }
 
 .header-txt p {
@@ -112,7 +112,7 @@ img {
 .btn-1, .btn-2, .btn-3 {
     display: inline-block;
     padding: 11px 35px;
-    border: 2px solid #D0312D;
+    border: 2px solid #ff0400;
     border-radius: 25px;
     margin-right: 25px;
     font-size: 17px;
@@ -120,7 +120,7 @@ img {
 }
 
 .btn-1:hover {
-    background-color: #D0312D;
+    background-color: #ff0400;
 }
 
 .popular {
@@ -178,7 +178,7 @@ h3 {
 
 .btn-2 {
     padding: 5px 25px;
-    background-color: #D0312D;
+    background-color: #ff0400;
     margin-right: 0;
 }
 
@@ -216,7 +216,7 @@ input {
 }
 
 .btn-3 {
-    background-color: #D0312D;
+    background-color: #ff0400;
     cursor: pointer;
     margin-right: 0;
 }
